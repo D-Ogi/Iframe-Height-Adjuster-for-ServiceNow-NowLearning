@@ -1,6 +1,6 @@
-# Iframe Height Adjuster for ServiceNow Learning
+# Iframe Height Adjuster for ServiceNow NowLearning
 
-This userscript adjusts the height of iframes on ServiceNow Learning pages.
+This userscript adjusts the height of iframes on ServiceNow NowLearning pages.
 
 ## Installation
 
